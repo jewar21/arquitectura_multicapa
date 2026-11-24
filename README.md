@@ -81,3 +81,14 @@ src/
 │   └── ProductoRepository.java
 └── view/
     └── ProductoView.java
+
+# Estrategias de branchs y commits para los estudiantes
+main
+├── feature/modelo-producto
+├── feature/registro
+├── feature/menu-principal
+└── docs/docu-general
+
+- nota: Recomiendo utilizar la extensión conventional commits y branchs
+url: https://www.conventionalcommits.org/en/v1.0.0/ 
+url: https://conventionalbranch.org/
